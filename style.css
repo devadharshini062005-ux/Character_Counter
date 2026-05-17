@@ -3,6 +3,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-color: #f0f2f5;
     
 }
 div{
@@ -10,7 +11,6 @@ div{
     height: 450px;
     border: 2px solid darkgrey;
     border-radius: 10px;
-    background-color: rgb(219, 244, 253);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
 }
